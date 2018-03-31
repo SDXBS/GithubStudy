@@ -8,7 +8,7 @@ import android.os.IBinder;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import android.view.View;
+
 
 import com.l.anddroidstudy0804b.IMyAidlInterface;
 
