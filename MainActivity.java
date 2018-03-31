@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     private MyConn conn;
     private IMyAidlInterface.Stub myBinder;
-    @Override
+    
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
