@@ -10,7 +10,7 @@ import android.os.Bundle;
 
 
 
-import com.l.anddroidstudy0804b.IMyAidlInterface;
+
 
 public class MainActivity extends AppCompatActivity {
 
